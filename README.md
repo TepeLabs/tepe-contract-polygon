@@ -1,6 +1,6 @@
 # tepe-contract-polygon
 
-EVM contract for ERC1155 tokens with the functionality where anyone can create a new token ID and then mint that ID as they wish.
+EVM contract for ERC1155 tokens with the functionality where anyone can create a new token ID and then mint that ID as they wish.  Based on OpenSea's [`ERC1155Tradable.sol`](https://github.com/ProjectOpenSea/opensea-creatures/blob/master/contracts/ERC1155Tradable.sol).
 
 Used for Tepe lockboxes, so that users can easily create their own lockbox (i.e., token ID) and then mint and transfer to others with complete control.
 
